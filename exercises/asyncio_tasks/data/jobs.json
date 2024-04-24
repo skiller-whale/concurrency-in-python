@@ -1,0 +1,10 @@
+[
+    {
+        "func": "print_unix_time",
+        "interval": 10
+    },
+    {
+        "func": "print_date",
+        "interval": 1.5
+    }
+]
